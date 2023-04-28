@@ -1,1 +1,2 @@
 # Gomoku
+This is a code for Gomoku game. It is written in C language. The code performs an aborted Gomoku game. There 2 different players 'B' and 'W'. Black 'B', starts the game. The main goal of the game is be the first person to have your mark in a series of 5 (it can be horizontal, vertical or diagnol). Each player makes a move after its rival. It is my first C project, so the code isnt complicated. It reads the board from the file "board.txt" and displays the board. After each move, the code checks for winning condition (serie of 5) with for loops.
